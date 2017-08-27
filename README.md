@@ -13,3 +13,12 @@ M101JS: MongoDB for Node.js Developers
   DATE      MAC ADDRESS     PID (processid )       COUNTER
 - - - -        - - -             - -                - - -
 12 byte - HEX String
+
+
+
+# Modifiers
+
+$push
+  $each
+  $position
+  $slice
