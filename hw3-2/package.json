@@ -1,0 +1,9 @@
+{
+  "name": "homework",
+  "version": "0.1.0",
+  "description": "homework help",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~2.1.3"
+  }
+}
