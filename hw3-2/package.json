@@ -4,6 +4,6 @@
   "description": "homework help",
   "main": "app.js",
   "dependencies": {
-    "mongodb": "~2.1.3"
+    "mongodb": "~3.6.1"
   }
 }
